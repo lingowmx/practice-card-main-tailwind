@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/blog-preview-card-main/',  
+  base: '/practice-card-main-tailwind/',  
 })
